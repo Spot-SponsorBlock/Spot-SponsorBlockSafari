@@ -126,19 +126,19 @@
 		2DBA5CD627210D8500BD0CFF /* Spot SponsorBlock Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Spot SponsorBlock Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DBA5CDB27210D8500BD0CFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2DBA5CDC27210D8500BD0CFF /* SponsorBlock for Spotify - Skip Sponsorships.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "SponsorBlock for Spotify - Skip Sponsorships.entitlements"; sourceTree = "<group>"; };
-		2DBA5CFC27210D8600BD0CFF /* options */ = {isa = PBXFileReference; lastKnownFileType = folder; name = options; path = "../../Spot SponsorBlock/dist/options"; sourceTree = "<group>"; };
-		2DBA5CFD27210D8600BD0CFF /* oss-attribution */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "oss-attribution"; path = "../../Spot SponsorBlock/dist/oss-attribution"; sourceTree = "<group>"; };
-		2DBA5CFE27210D8600BD0CFF /* content.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = content.css; path = "../../Spot SponsorBlock/dist/content.css"; sourceTree = "<group>"; };
-		2DBA5CFF27210D8600BD0CFF /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; name = js; path = "../../Spot SponsorBlock/dist/js"; sourceTree = "<group>"; };
-		2DBA5D0027210D8600BD0CFF /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = "../../Spot SponsorBlock/dist/popup.html"; sourceTree = "<group>"; };
-		2DBA5D0127210D8600BD0CFF /* permissions */ = {isa = PBXFileReference; lastKnownFileType = folder; name = permissions; path = "../../Spot SponsorBlock/dist/permissions"; sourceTree = "<group>"; };
-		2DBA5D0227210D8700BD0CFF /* libs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = libs; path = "../../Spot SponsorBlock/dist/libs"; sourceTree = "<group>"; };
-		2DBA5D0327210D8700BD0CFF /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = "../../Spot SponsorBlock/dist/icons"; sourceTree = "<group>"; };
-		2DBA5D0427210D8700BD0CFF /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../Spot SponsorBlock/dist/manifest.json"; sourceTree = "<group>"; };
-		2DBA5D0527210D8700BD0CFF /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = popup.css; path = "../../Spot SponsorBlock/dist/popup.css"; sourceTree = "<group>"; };
-		2DBA5D0627210D8700BD0CFF /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; name = _locales; path = "../../Spot SponsorBlock/dist/_locales"; sourceTree = "<group>"; };
-		2DBA5D0727210D8700BD0CFF /* help */ = {isa = PBXFileReference; lastKnownFileType = folder; name = help; path = "../../Spot SponsorBlock/dist/help"; sourceTree = "<group>"; };
-		2DF776D92A9964A1003EA5AF /* shared.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = shared.css; path = "../../Spot SponsorBlock/dist/shared.css"; sourceTree = "<group>"; };
+		2DBA5CFC27210D8600BD0CFF /* options */ = {isa = PBXFileReference; lastKnownFileType = folder; name = options; path = "../../Spot-SponsorBlock/dist/options"; sourceTree = "<group>"; };
+		2DBA5CFD27210D8600BD0CFF /* oss-attribution */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "oss-attribution"; path = "../../Spot-SponsorBlock/dist/oss-attribution"; sourceTree = "<group>"; };
+		2DBA5CFE27210D8600BD0CFF /* content.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = content.css; path = "../../Spot-SponsorBlock/dist/content.css"; sourceTree = "<group>"; };
+		2DBA5CFF27210D8600BD0CFF /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; name = js; path = "../../Spot-SponsorBlock/dist/js"; sourceTree = "<group>"; };
+		2DBA5D0027210D8600BD0CFF /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = popup.html; path = "../../Spot-SponsorBlock/dist/popup.html"; sourceTree = "<group>"; };
+		2DBA5D0127210D8600BD0CFF /* permissions */ = {isa = PBXFileReference; lastKnownFileType = folder; name = permissions; path = "../../Spot-SponsorBlock/dist/permissions"; sourceTree = "<group>"; };
+		2DBA5D0227210D8700BD0CFF /* libs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = libs; path = "../../Spot-SponsorBlock/dist/libs"; sourceTree = "<group>"; };
+		2DBA5D0327210D8700BD0CFF /* icons */ = {isa = PBXFileReference; lastKnownFileType = folder; name = icons; path = "../../Spot-SponsorBlock/dist/icons"; sourceTree = "<group>"; };
+		2DBA5D0427210D8700BD0CFF /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = manifest.json; path = "../../Spot-SponsorBlock/dist/manifest.json"; sourceTree = "<group>"; };
+		2DBA5D0527210D8700BD0CFF /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; name = popup.css; path = "../../Spot-SponsorBlock/dist/popup.css"; sourceTree = "<group>"; };
+		2DBA5D0627210D8700BD0CFF /* _locales */ = {isa = PBXFileReference; lastKnownFileType = folder; name = _locales; path = "../../Spot-SponsorBlock/dist/_locales"; sourceTree = "<group>"; };
+		2DBA5D0727210D8700BD0CFF /* help */ = {isa = PBXFileReference; lastKnownFileType = folder; name = help; path = "../../Spot-SponsorBlock/dist/help"; sourceTree = "<group>"; };
+		2DF776D92A9964A1003EA5AF /* shared.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = shared.css; path = "../../Spot-SponsorBlock/dist/shared.css"; sourceTree = "<group>"; };
 		2DFDA9902A09DE9000FED7D2 /* ci_post_clone.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = ci_post_clone.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
